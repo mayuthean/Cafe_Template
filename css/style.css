@@ -248,12 +248,13 @@ html,body{
     height: 400px;
     background: green;
 }
-.feed{
-    display: block;
+.feed h1{
+    display:block;
+    padding: 15px 0px;
     text-align: center;
     font-size: 25px;
-    color: white;
     margin-top: 20px;
+    color: white;
 }
 
 .box-feed{
